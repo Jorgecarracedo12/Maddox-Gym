@@ -2,7 +2,7 @@
 
 Tracker personal de gimnasio: rutinas configurables, registro de peso por serie, temporizador de descanso, sugerencias de carga y progreso por ejercicio.
 
-**Abrir la app:** https://jorgecarracedo12.github.io/maddox-gym/
+**Abrir la app:** https://jorgecarracedo12.github.io/Maddox-Gym/
 
 ## Instalar en el celular
 - **iPhone (Safari):** abre el enlace, toca Compartir y luego "Agregar a pantalla de inicio".
